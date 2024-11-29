@@ -1,0 +1,25 @@
+node_modules
+.next
+.git
+.gitignore
+.env*.local
+.env
+Dockerfile
+.dockerignore
+README.md
+*.log
+venv/
+README.md
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+.Python
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+*.log
+# Build output
+dist/
+.output/
